@@ -1,3 +1,4 @@
-build: zmk-keyboards-lily58
+name: zmk-keyboards-lily58
+build: 
   settings:
     board_root: .
